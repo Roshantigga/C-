@@ -31,3 +31,4 @@ D:\vscode_project\WebRooshan\WebRooshan\obj\Debug\net8.0\refint\WebRooshan.dll
 D:\vscode_project\WebRooshan\WebRooshan\obj\Debug\net8.0\WebRooshan.pdb
 D:\vscode_project\WebRooshan\WebRooshan\obj\Debug\net8.0\WebRooshan.genruntimeconfig.cache
 D:\vscode_project\WebRooshan\WebRooshan\obj\Debug\net8.0\ref\WebRooshan.dll
+D:\vscode_project\WebRooshan\WebRooshan\obj\Debug\net8.0\WebRooshan.sourcelink.json

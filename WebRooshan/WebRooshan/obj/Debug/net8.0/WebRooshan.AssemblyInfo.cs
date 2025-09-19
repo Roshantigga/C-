@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebRooshan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec0635b932d96d88a8e1d8d307626d0f2c05b66d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebRooshan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebRooshan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
